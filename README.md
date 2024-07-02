@@ -1,7 +1,5 @@
 # React, TailwindCSS, Material UI, ES Lint, TypeScript Starter
 
-Check out https://main.d3qis7fcjm1njw.amplifyapp.com/
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 TailwindCSS, Material UI, ES Lint, and Prettier are added to this project to help you save time.
